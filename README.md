@@ -1,1 +1,1 @@
-landing page for the app
+landing page for the app.
